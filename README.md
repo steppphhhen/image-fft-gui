@@ -13,8 +13,8 @@ A Python GUI app for batch-processing JPG/PNG images using 2D Fourier Transform 
   
 ✅ Batch process all JPG/PNG images in a selected folder  Does all the images in the folder targeted by the GUI  
 🌀 Extract & visualize 2D Fourier Transforms (FFT)  
-🎨 Use dominant image colors to build matching colormaps  The off the peg colour schemes were all rubbish so I asked chat GPT to cook up a custom scheme for each FFT based on the main colours in the image. This feature is killer.  
-🔍 Save FFTs at multiple zoom levels (25%, 50%, 100%)  
+🎨 Use dominant image colors to build matching colormaps  The off-the-peg colour schemes were all rubbish so I asked chat GPT to cook up a custom scheme for each FFT based on the main colours in the image. This feature is killer.  
+🔍 Save FFTs at multiple zoom levels (25%, 50%, 75% 100%)  
 It belches out files for all four levels of zoom - choose the one that looks coolest for your image, soz you have to delete the others.  
 🎨 Apply three contrast methods: log, gamma, stretch. The outputs were a bit flat and noisy so I asked chatGPT to do some maths thing to make them pop a bit more - again all versions of the image are belched out.  
 🧠 Heuristic-based wallpaper group classification  Really crude wallpaper group determination with very dubious outcomes as it doesn't consider all 17 wall paper groups, because maths is hard. Does this bit by analysing the FFT and looking for symmetry. Sometimes spots chirality! Assigns lots of random crap as P4m.  
