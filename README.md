@@ -5,7 +5,7 @@ A Python GUI app for batch-processing JPG/PNG images using 2D Fourier Transform 
 - Custom color palette generation based on image content
 - Multi-zoom FFT visualizations
 - Clean labeled outputs in a separate folder
-- Written by a noob using chatGPT in order to Fourier transform pictures of Azulejo tiles takne whilst on holiday in Lisbon. Check out the tile museum in Lisbon for some cracking tiles. Check out the TimeOut market for some cracking food and refreshments.
+- Written by a noob using chatGPT in order to Fourier transform pictures of Azulejo tilings taken whilst on holiday in Lisbon. Check out the tile museum in Lisbon for some cracking tiles. Check out the TimeOut market for some cracking food and refreshments.
 
 ---
 
